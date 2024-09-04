@@ -6,7 +6,7 @@
 
 🚀 My goal is to develop innovative, user-centric solutions that truly make a difference. Let's build something great together!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-Abdul-Malik28&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdul-Malik28&color=blue)
 
 ### Skills
 - HTML, CSS, JavaScript
