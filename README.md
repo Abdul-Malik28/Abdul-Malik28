@@ -1,8 +1,8 @@
 ## Hi there, I'm Abdul Malik 👋
 
-🎓 I’m an undergraduate student pursuing a BSc (Hons) in Software Engineering, passionate about web development and crafting impactful digital experiences. I have a strong foundation in HTML, CSS, JavaScript, and I'm continually enhancing my skills with tools like Git and GitHub.
+🎓 I’m an undergraduate student pursuing a BSc (Hons) in Software Engineering, passionate about web development and crafting impactful digital experiences. I have a strong foundation in HTML, CSS, JavaScript, TailwindCss, Bootstrap and I'm continually enhancing my skills with tools like Git and GitHub.
 
-🌱 Currently exploring Tailwind CSS, Angular, and React to expand my front-end development toolkit. I love solving challenges and am driven by the constant learning that comes with the fast-paced world of software development.
+🌱 Currently exploring Angular, and React to expand my front-end development toolkit. I love solving challenges and am driven by the constant learning that comes with the fast-paced world of software development.
 
 🚀 My goal is to develop innovative, user-centric solutions that truly make a difference. Let's build something great together!
 
@@ -10,11 +10,13 @@
 
 ### Skills
 - HTML, CSS, JavaScript
+- Tailwind CSS
+- Bootstrap
 - IoT
 - MySQL
 - PHP
 - Git and GitHub
-- Learning: Tailwind CSS, Angular, React
+- Learning: Angular, React
 
 ### Languages and Tools:
 
@@ -22,6 +24,7 @@
 
 ### Featured Projects
 - [MegaMart](https://github.com/Abdul-Malik28/Megamart): This project is a simple, responsive e-commerce website homepage named Mega Mart. It is built using HTML and CSS, showcasing a clean and modern design tailored for an online retail store. The homepage features key sections like a navigation bar, product showcases, promotional banners, and a footer, all optimized for various screen sizes.
+-  [JustHome](https://github.com/Abdul-Malik28/JustHome-RealEstate): This project is a simple, responsive real estate home page named Just Home. It is built using HTML, JS and Tailwidn CSS, showcasing a clean and modern design tailored for an online retail store. The web page optimized for various screen sizes.
 
 ### Connect with Me
 [![Connect on LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-malik-5b26b9317/)
