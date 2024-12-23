@@ -1,6 +1,6 @@
 ## Hi there, I'm Abdul Malik 👋
 
-🎓 I’m an undergraduate student pursuing a BSc (Hons) in Software Engineering, passionate about web development and crafting impactful digital experiences. I have a strong foundation in HTML, CSS, JavaScript, TailwindCSS, Bootstrap and I'm continually enhancing my skills with tools like Git and GitHub.
+🎓 I’m an undergraduate student pursuing a BSc (Hons) in Software Engineering, passionate about web development and crafting impactful digital experiences. I have a strong foundation in HTML, CSS, JavaScript, TypeScript, TailwindCSS, Bootstrap and I'm continually enhancing my skills with tools like Git and GitHub.
 
 🌱 Currently exploring Angular, and React to expand my front-end development toolkit. I love solving challenges and am driven by the constant learning that comes with the fast-paced world of software development.
 
@@ -10,6 +10,7 @@
 
 ### Skills
 - HTML, CSS, JavaScript
+- TypeScript
 - Tailwind CSS
 - Bootstrap
 - IoT
@@ -20,15 +21,16 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,mysql,php,tailwind,arduino,bash,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,mysql,php,tailwind,arduino,bash,vscode,webpack,ts)](https://skillicons.dev)
 
 ### Featured Projects
 - [MegaMart](https://github.com/Abdul-Malik28/Megamart): This project is a simple, responsive e-commerce website homepage named Mega Mart. It is built using HTML and CSS, showcasing a clean and modern design tailored for an online retail store. The homepage features key sections like a navigation bar, product showcases, promotional banners, and a footer, all optimized for various screen sizes.
 -  [JustHome](https://github.com/Abdul-Malik28/JustHome-RealEstate): This project is a simple, responsive real estate home page named Just Home. It is built using HTML, JS and Tailwidn CSS, showcasing a clean and modern design tailored for an online retail store. The web page optimized for various screen sizes.
+-  [Drag and Drop](https://github.com/Abdul-Malik28/drag-drop-project-with-TS): This DRAG AND DROP PROJECT DEVELOPED USING TS! CONCEPTS ARE BASED ON OOP, ES6 MODULES, WEBPACK. This allows dynamic task management, with good drag-and-drop action, and modular and reusable code as a must.
 
 ### Connect with Me
 [![Connect on LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-malik-5b26b9317/)
-[![Connect on LinkedIn](https://skillicons.dev/icons?i=gmail)](https://www.linkedin.com/in/abdul-malik-5b26b9317/)
+[![Send an Email](https://skillicons.dev/icons?i=gmail)](mailto:malik.info28@gmail.com)
 
 
 ![Abdul's GitHub Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul-Malik28&theme=github_dark)
