@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,git,github,mysql,php,tailwind,arduino,bash,vscode,webpack,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,js,html,css,bootstrap,git,github,mysql,php,tailwind,arduino,bash,vscode,webpack,ts)](https://skillicons.dev)
 
 ### Featured Projects
 - [MegaMart](https://github.com/Abdul-Malik28/Megamart): This project is a simple, responsive e-commerce website homepage named Mega Mart. It is built using HTML and CSS, showcasing a clean and modern design tailored for an online retail store. The homepage features key sections like a navigation bar, product showcases, promotional banners, and a footer, all optimized for various screen sizes.
