@@ -17,7 +17,8 @@
 - MySQL
 - PHP
 - Git and GitHub
-- Learning: Angular, React
+- AngularJS
+- Learning: React
 
 ### Languages and Tools:
 
@@ -26,7 +27,7 @@
 ### Featured Projects
 - [MegaMart](https://github.com/Abdul-Malik28/Megamart): This project is a simple, responsive e-commerce website homepage named Mega Mart. It is built using HTML and CSS, showcasing a clean and modern design tailored for an online retail store. The homepage features key sections like a navigation bar, product showcases, promotional banners, and a footer, all optimized for various screen sizes.
 -  [JustHome](https://github.com/Abdul-Malik28/JustHome-RealEstate): This project is a simple, responsive real estate home page named Just Home. It is built using HTML, JS and Tailwidn CSS, showcasing a clean and modern design tailored for an online retail store. The web page optimized for various screen sizes.
--  [Drag and Drop](https://github.com/Abdul-Malik28/drag-drop-project-with-TS): This DRAG AND DROP PROJECT DEVELOPED USING TS! CONCEPTS ARE BASED ON OOP, ES6 MODULES, WEBPACK. This allows dynamic task management, with good drag-and-drop action, and modular and reusable code as a must.
+-  [📝User Task Manager App](https://github.com/Abdul-Malik28/Angular-Task-App-Routing): This is a simple Application built with AngularJS that is supposed to demonstrate how we can create a User, assign tasks and track progress.: The app makes it easy to create, maintain or delete tasks. It shows primary Angular concepts including: String Interpolation, Property Binding, Event Binding, Two-way Data Binding, Input & Output Decorators, Routing with Parameterized Routes, Pipes, Angular Services for Data Sharing, Dependency Injection, Standalone Components, Lifecycle Hooks, Routing Guards
 
 ### Connect with Me
 [![Connect on LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-malik-5b26b9317/)
