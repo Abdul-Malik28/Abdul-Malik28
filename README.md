@@ -1,8 +1,8 @@
 ## Hi there, I'm Abdul Malik 👋
 
-🎓 I’m an undergraduate student pursuing a BSc (Hons) in Software Engineering, passionate about web development and crafting impactful digital experiences. I have a strong foundation in HTML, CSS, JavaScript, TypeScript, TailwindCSS, Bootstrap and I'm continually enhancing my skills with tools like Git and GitHub.
+🎓 I’m an undergraduate student pursuing a BSc (Hons) in Software Engineering, passionate about web development and crafting impactful digital experiences. I have a strong foundation in HTML, CSS, JavaScript, TypeScript, Angular, TailwindCSS, Bootstrap and I'm continually enhancing my skills with tools like Git and GitHub.
 
-🌱 Currently exploring Angular, and React to expand my front-end development toolkit. I love solving challenges and am driven by the constant learning that comes with the fast-paced world of software development.
+🌱 Currently exploring React to expand my front-end development toolkit. I love solving challenges and am driven by the constant learning that comes with the fast-paced world of software development.
 
 🚀 My goal is to develop innovative, user-centric solutions that truly make a difference. Let's build something great together!
 
